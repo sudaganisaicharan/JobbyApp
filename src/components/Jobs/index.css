@@ -1,0 +1,7 @@
+.job-profile-container {
+  background-color: #000000;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 25px;
+}
